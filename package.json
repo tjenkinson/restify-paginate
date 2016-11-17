@@ -28,10 +28,10 @@
     "extend": "^3.0.0"
   },
   "devDependencies": {
-    "istanbul": "^0.3.18",
-    "mocha": "^2.2.5",
-    "request-promise": "^0.4.3",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2",
+    "request-promise": "^4.1.1",
     "restify": "^4.0.0",
-    "should": "^7.0.4"
+    "should": "^11.1.1"
   }
 }
